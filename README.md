@@ -18,7 +18,7 @@ The Power BI dashboard visualizes key insights across various dimensions:
 
 ### 📌 Sample Dashboard Preview:
 ![Dashboard Preview](https://github.com/user-attachments/assets/feb8596e-060c-4356-8375-b8d28aed10c6)
-nshot.png)
+
 
 ---
 
