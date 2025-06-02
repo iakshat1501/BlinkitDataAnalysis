@@ -17,8 +17,8 @@ The Power BI dashboard visualizes key insights across various dimensions:
 - **Revenue Breakdown by Brand and Category**
 
 ### 📌 Sample Dashboard Preview:
-> *(Add a screenshot or GIF of your dashboard here, or upload it to the repo and link it like below)*  
-![Dashboard Preview](./Dashboard_Screenshot.png)
+![Dashboard Preview](https://github.com/user-attachments/assets/feb8596e-060c-4356-8375-b8d28aed10c6)
+nshot.png)
 
 ---
 
