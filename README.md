@@ -55,4 +55,4 @@ The Power BI dashboard visualizes key insights across various dimensions:
 
 1. Clone this repository or download the files:
    ```bash
-   git clone https://github.com/yourusername/blinkit-powerbi-dashboard.git
+   git clone [https://github.com/iakshat1501/BlinkitDataAnalysis-using-Power-BI.git]
