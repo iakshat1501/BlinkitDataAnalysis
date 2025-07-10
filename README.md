@@ -3,7 +3,13 @@
 This repository contains a Power BI dashboard and dataset used for analyzing grocery sales data from **Blinkit (formerly Grofers)**. The goal of this project was to uncover insights into store-level sales performance, product category demand, customer ordering patterns, and trends over time.
 
 ---
+## 🎯 Data Structure and Initial Checks
 
+The sales database as seen below consists of 8 tables with an average of 5000 entries in each table.  
+
+![DataModel_BlinkitDataAnalysis](https://github.com/user-attachments/assets/7f6e754e-0fd2-4f77-9c59-65cb5b40678d)
+
+---
 ## 📊 Dashboard Overview
 
 The Power BI dashboard visualizes key insights across various dimensions:
